@@ -1,0 +1,10 @@
+.SliderItemClass {
+    width: 100px;
+    padding: 20px 200px;
+    margin: 25px 0;
+}
+.SliderItemClass img{
+    width: 100px;
+    height: 100px;
+
+}

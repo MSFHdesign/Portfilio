@@ -1,0 +1,8 @@
+.PictureFrame {
+    width: 100vw;
+    height: 800px;
+    clip-path: polygon(0 40%, 100% 0, 100% 60%, 0 100%);
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+}

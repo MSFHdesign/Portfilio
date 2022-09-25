@@ -1,0 +1,46 @@
+.accordions{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    background-color: #0B111E;
+}
+
+
+.panels{
+    background-color: black;
+}
+.AccordionDetails {
+
+    background-color: #0B111E;
+}
+
+
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+    background: none;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root .panels {
+    background-color: #0B111E;
+    color: white;
+
+}
+
+.css-o4b71y-MuiAccordionSummary-content {
+    justify-content: center;
+    border: 1px solid #00BAFF;
+    border-radius: 26px;
+
+}
+
+.css-o4b71y-MuiAccordionSummary-content:hover:not(.Mui-disabled) {
+    background-color: #00BAFF;
+}
+
+.HeadLights h3 {
+    text-align: center;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+    background-color: #0B111E;}

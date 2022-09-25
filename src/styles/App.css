@@ -1,0 +1,28 @@
+.root {
+/* Colors */
+--TxtColor: #f2f2f2;
+--SkyBlue: #00BAFF;
+--BgColor: #0B111E;
+
+background-color: var(--BgColor);    
+color: var(--TxtColor);
+width: 100vw;
+overflow-x: hidden;
+align-content: center;
+}
+
+h2 {
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+
+    color: #f2f2f2; 
+}
+
+.appbar {
+    padding: 100px 0;
+}
+

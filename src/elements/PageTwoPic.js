@@ -1,0 +1,13 @@
+import background from '../pictures/Selfie.jpeg'
+import '../styles/PictureStyle.css'; 
+
+
+
+export default function PageTwoPic(){
+    return(
+        <div className='PictureFrame' style={{ backgroundImage: `url(${background})` }}>
+            
+
+        </div>
+    )
+}

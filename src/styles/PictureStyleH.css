@@ -1,0 +1,8 @@
+.PictureFrameH {
+    width: 100vw;
+    height: 800px;
+    clip-path: polygon(0 0, 100% 40%, 100% 100%, 0 60%);
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+}

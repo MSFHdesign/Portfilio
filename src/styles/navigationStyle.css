@@ -1,0 +1,15 @@
+.IconFlexBox {
+    
+    display : flex;
+    justify-content: space-evenly;
+}
+
+.css-hyum1k-MuiToolbar-root {
+    z-index: 100000000;
+    display: flex;
+    justify-content: space-evenly;
+    
+    }
+
+
+.MuiToolbar-root  {display :none}

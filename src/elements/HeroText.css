@@ -2,6 +2,7 @@
 
 
 #Siin_Design {
+    padding-left: 10px;
     width: 100%;
     z-index: 1000;
     filter: drop-shadow(-1px 0px 1px rgba(255, 255, 255, 0));
@@ -11,7 +12,7 @@
     font-family: Helvetica Neue;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
+    font-size: 1rem;
     color: rgba(0,186,255,1);
     text-transform: uppercase;
     text-shadow:

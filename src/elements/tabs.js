@@ -76,21 +76,22 @@ export default function UnstyledTabsIntroduction() {
     <h2>Kompetencer</h2>
     <TabsUnstyled defaultValue={1}>
     <TabsList>
-        <Tab><p>Cretive Cloud</p></Tab>
+        <Tab><p>Creative Cloud</p></Tab>
         <Tab><p>Programmering</p></Tab>
         <Tab><p>Personligt</p></Tab>
     </TabsList>
     <TabPanel value={0}>
        <CreativeCloudSkills /> 
-       Jeg er øvet i de fleste Adobe programmer, men er især erfaren i adobe XD jeg er ligeledes begyndt at arbejde med 3D effekt både i adobe after-effect og i blender. 
+       Jeg er øvet i de fleste Adobe programmer, især adobe XD. Jeg er ligeledes begyndt at arbejde med 3D effekt både i adobe after-effect og blender. 
     </TabPanel>
     <TabPanel value={1}>
         <Programmeringsskills/>
+        Jeg har forelsket mig i programmering og elsker at udforske nye aspekter af mit nyfundne sprog. 
     </TabPanel>
 
     <TabPanel value={2}>
-       Mine personlige skills er nogle jeg har fået hen af livet vej 
         <Personligeskills />
+Jeg har mange kompetencer med i min rygsæk.
     </TabPanel>
     </TabsUnstyled>
     </div>

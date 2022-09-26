@@ -88,23 +88,22 @@ export default function ProjektsTabs() {
     <TabPanel value={0}>
 
     <h3> Design Projekter</h3>
-        <p> Jeg forsøger altid at skabe unikke design der passer til både udbyder og forbrugeres behov</p>
-        <p> For ikke at spilde din dyrebare tid, med at skulle lave ændringer i design i koderne brygges siden først op i Adobe XD, giver muligheden for at ændre nemt og hurtigt.</p>
+        <p> Jeg forsøger altid at skabe unikke design der tager udgangspunkt i udbyder og forbrugerens behov. Jeg spilder ikke din dyrebare tid, derfor bygges siden først op i Adobe XD. Det giver mulighed for at lave ændringer hurtigt og nemt. Når designet er perfekt, bygges koderne op.</p>
        <DesignMap/>
 
     </TabPanel>
     <TabPanel value={1}>
 
     <h3> SPA / MPA </h3>
-        <p> Der er stor forskel på ønsket en SPA <span> (Single Page Application)</span> eller MPA.  </p>
-        <p> Efter folks digitale vane har vændet sig mere til METAs både at opbygge hjemmesider på er SPA den mest anvendelige.  </p>
+        <p> Der er stor forskel på ønsket om en SPA <span> (Single Page Application)</span> eller MPA.  </p>
+        <p> Digitale vaner ændrer sig og forbrugerne har vænnet sig til METAs opbygning af hjemmesider. SPA er den mest anvendelige.  </p>
         <ProgrammeringMap />
 
     </TabPanel>
 
     <TabPanel value={2}>
         <h3> Mobil Apps</h3>
-        <p> Fremtiden er usikker, men jeg ved at jeg vil udvikle mig på at udvikle mobil apps </p>
+        <p> Mit mål er at udvikle mobil apps og AI. </p>
         <AppsMap />
     </TabPanel>
 

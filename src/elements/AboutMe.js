@@ -48,16 +48,16 @@ export default function AboutMe() {
           </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
                 <p>
-                Michael Hovgaard, igennem mine 31 år har jeg arbejdet med markedsføring, branding, online identitet, marketing, i 17 år. Året 2021, blev året hvor jeg fandt multimediedesign uddannelsen og fik smag for programmere som hurtigt blev et sprog. 
+                Michael Hovgaard og er 31 år. Jeg har arbejdet med markedsføring, branding, online identitet samt marketing i 17 år. Året 2021 blev året, hvor jeg fandt uddannelsen til multimediedesign. Min interesse for programmering startede og blev hurtigt et sprog, jeg taler og forstår. 
                 </p>
                 <p>
-                Igennem 1 og andet semester blev der skabt dybere og dybere forståelse af HTML, CSS og JavaScript. Hvor mine 17 år med markedsføring og branding kom til sin ret i form at brugerundersøgelser og dataanalyser. 
+                Igennem 1. og 2. semester blev der skabt en dybere og dybere forståelse af HTML, CSS og JavaScript. Her kom mine 17 år med markedsføring og branding til sin ret i form af forståelse for analyse og strategi. 
                 </p>
                 <p>
-Jeg snakker både programmeringssprog og menneskesprog, så jeg har en særdeles evne til at kommunikere mellem fagfolk og ikke fagfolk, således at begge får en korrekt forståelse for projekter. 
+Jeg snakker både programmeringssprog og menneskesprog. Jeg har lært, at jeg har en evne til at kommunikere mellem fagfolk og ikke fagfolk, således at begge får en korrekt forståelse for projektet. 
 </p>
 <p>
-Tværfagligt team work og projektledelse kommer mig også naturligt da jeg har været chef for 35+ ansatte der skulle fungere i samhørighed hvor både løn% og service skulle spille overens, så der skulle traffes beslutninger on the spot. 
+Jeg har været chef for 35+ ansatte derfor forekommer tværfagligt teamwork og projektledelse, mig naturligt. 
 </p>
 
           </Typography>

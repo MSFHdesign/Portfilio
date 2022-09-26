@@ -47,7 +47,7 @@ export default function FutureModal() {
           </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             <p>
-            Når jeg er færdig på Aarhus Erhvervsakademi, som multimediedesigner vil jeg gerne enten læse videre og få mit en bachlor i webudvikling med speciale i app-udvikling, eller i AI - da jeg ser disse områder som et relevant og interresant område at arbejde med. 
+            Når jeg er færdiguddannet multimediedesigner fra Aarhus Erhvervsakademi, læser jeg videre på professionsbachelor i webudvikling med speciale i app-udvikling eller i AI. Samtidig vil jeg arbejde videre med min egen virksomhed Siin Design.
 
             
             </p>

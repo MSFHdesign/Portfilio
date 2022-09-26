@@ -16,7 +16,7 @@ export default function SimpleAccordion() {
   return (
     <div className='accordions'>
 
-      <h2>Min arbejdsprocess</h2>
+      <h2>Min arbejdsproces</h2>
       <Accordion sx={Style}
       className='panels'>
         <AccordionSummary 
@@ -35,8 +35,8 @@ export default function SimpleAccordion() {
         >
           <Typography className='Tell'>
                 <h3> For at kunne forstå din målgruppe  </h3>
-                <p>Start jeg altid med en grundig desk og field research, dvs at der tager tid til at forstå dig og dine brugeres behov</p>
-                <p>Her efter er det vigtigt at klargøre "hvad er dig og deres problem" for sådan kan der arbejdes ud fra at løse et problem</p>
+                <p>Starter jeg altid med grundig desk og field research. Jeg bruger derfor tid på at forstå dig, dine virksomhed og dine kunders behov</p>
+                <p>Herefter er det vigtigt at klargøre "Hvad er problemmet?", så vi får løst din problematik.</p>
   
           </Typography>
         </AccordionDetails>
@@ -55,9 +55,9 @@ export default function SimpleAccordion() {
           className='AccordionDetails'
         >
           <Typography className='Tell'>
-          <h3> For at minske spild tiden - LOWFI </h3>
+          <h3> For at mindske spild af tiden - LOWFI </h3>
                 <p>Laver jeg altid en hård skitse for at forstå elementers egenskaber og vigtighed - De får deres værdi fra undersøgelserne.</p>
-                <p>Der tegnes et tenden som kan give nogle klare tegn på hvordan de skal se ud på det endelige design, samt deres placeringer - Og så det noget hurtigere at ændre på en tegning end på koder.</p>
+                <p>Der tegnes for at få et klart overblik over hvordan det skal se ud på det endelige design, samt deres placeringer. Det giver et visuelt billede og det er hurtigere at ændre på en tegning end på koder.</p>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -74,9 +74,9 @@ export default function SimpleAccordion() {
           className='AccordionDetails'
         >
           <Typography className='Tell'>
-          <h3> Se din kommende side komme til liv - HIFI  </h3>
-                <p>Med udgangspunkt i LOWFI, opbygges en testbar XD prototype således at du kan se og vi kan teste din løsning på målgruppen, dette gøres for at kunne se hvor dine brugere stopper eller om de kan finde konkrete ting du gerne vil have de finder. </p>
-                <p>Dette gøres for at gøre opbygningen af koderne lettere således at der ikke skal opfindes design mens der kodes.</p>
+          <h3> Se din kommende side komme til live - HIFI  </h3>
+                <p>Med udgangspunkt i LOWFI, opbygges en testbar XD prototype. Herefter kan du visuelt se den. Er du tilfreds, så testes din løsning på målgruppen for at se hvordan kunderejsen for dine brugere er baseret på problematikken.</p>
+                <p>På den måde sikrer vi at designet er tilfredsstillende før opbygningen af koderne kan begynde</p>
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -94,7 +94,7 @@ export default function SimpleAccordion() {
         >
           <Typography className='Tell'>
           <h3> SPA eller MPA?  </h3>
-                <p> Der er stor forskel på om du vil have en "hurtigt" løsning eller om du vil have den rigtige løsning. Ligeledes er der mange måder at bygge en hjemmeside op. De fleste moderne hjemmesider er opbygget i WordPress som er et CMS system der ikke har data-sikkerheden i tops. DVS. har du fx. en webshop er din data nemt at få fat i. </p>
+                <p> Der er stor forskel på om du vil have en "hurtig" løsning eller om du vil have den rigtige løsning. Der er mange måder at bygge en hjemmeside op på. De fleste moderne hjemmesider er opbygget i WordPress, som er et CMS system der ikke har data-sikkerheden i top. DVS. har du fx. en webshop er din data nem at få fat i. </p>
                 <p>
                     Jeg vil næsten altid anbefale at du får lavet den rigtige løsning fremfor den hurtige. Sikkerhed fremfor alt!
                 </p>
@@ -115,7 +115,7 @@ export default function SimpleAccordion() {
         >
           <Typography className='Tell'>
           <h3> Test, test og flere test  </h3>
-                <p>For at kunne optimere brugerrejsen er vi nød til at få noget data så vi kan forbedre løsningen</p>
+                <p>For at kunne optimere brugerrejsen er data alfa og omega. Den data kan vi bruge til at optimerer løsningen så den sidder lige i skabet.</p>
                 
           </Typography>
         </AccordionDetails>
